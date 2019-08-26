@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pytest_learn.iml" filepath="$PROJECT_DIR$/.idea/pytest_learn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../pytest_practice/.idea/pytest_practice.iml" filepath="$PROJECT_DIR$/../pytest_practice/.idea/pytest_practice.iml" />
-    </modules>
-  </component>
-</project>
