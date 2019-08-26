@@ -1,0 +1,25 @@
+{
+  "test_basic_baidu_search":
+  [
+    {
+      "keyword": "panda",
+      "id": 1
+    },
+    {
+      "keyword": "love.jpg",
+      "id": 2
+    }
+  ],
+
+  "test_baidu_search_pic":
+  [
+    {
+      "keyword": "panda",
+      "id": 1
+    },
+    {
+      "keyword": "love.jpg",
+      "id": 2
+    }
+  ]
+}
